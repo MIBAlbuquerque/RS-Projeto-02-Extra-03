@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Moveis Costumizados é uma página de um site de móveis projetados. 
+O Rocket sect é uma página de um site de Segurança Digital. 
 
 - [Acesse o projeto finalizado, online](https://MIBAlbuquerque.github.io/RS-Projeto-02-Extra-03/)
 
